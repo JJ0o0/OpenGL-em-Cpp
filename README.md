@@ -31,10 +31,16 @@ Após isso, é só rodar o projeto usando o **make**.
   make
 ```
 
-Para limpar a build, é só usar:
+Para limpar os objetos, é só usar:
 
 ```
   make clean
+```
+
+Para limpar a build, é só usar:
+
+```
+  make distclean
 ```
 
 E para fazer rebuild do programa, é só usar:
